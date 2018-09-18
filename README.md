@@ -42,3 +42,7 @@ Extracting keyphrases and relations between them is of great interest to scienti
 ### Python Packages:
 1. genderize
 2. inflect
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Bharathgc/Coreference-resolution/blob/master/LICENSE) file for details
