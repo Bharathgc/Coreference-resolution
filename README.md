@@ -1,4 +1,4 @@
-# Coreference-resolution
+# Coreference Resolution
 
 This project proposes to the extraction of event-based knowledge from the text provided and categorize the type of the event, extract key phrases and their relations from the scientific publications and Clinical documents. The task tackled here is mention-level identification and classification of
 key phrases as well as extracting semantic relations between keywords. 
